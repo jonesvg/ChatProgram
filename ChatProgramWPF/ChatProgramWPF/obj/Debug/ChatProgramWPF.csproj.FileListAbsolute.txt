@@ -1,0 +1,2 @@
+c:\users\jonesvg\documents\visual studio 2015\Projects\ChatProgramWPF\ChatProgramWPF\bin\Debug\ChatProgramWPF.exe.config
+D:\Source\Repos\ChatProgramAndrew\ChatProgramWPF\ChatProgramWPF\bin\Debug\ChatProgramWPF.exe.config
